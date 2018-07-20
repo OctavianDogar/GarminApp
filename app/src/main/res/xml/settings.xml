@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory
+        android:title="@string/internet">
+
+        <CheckBoxPreference
+            android:key="@string/key_wifi_only"
+            android:title="@string/wifi_only"
+            android:defaultValue="@bool/wifi_only_default"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/data">
+
+        <ListPreference
+            android:key="@string/key_storage_export"
+            android:title="@string/export_product_list"
+            android:entries="@array/export_entries"
+            android:entryValues="@array/export_values"
+            android:defaultValue="@string/export_value_external_storage"/>
+    </PreferenceCategory>
+
+</PreferenceScreen>

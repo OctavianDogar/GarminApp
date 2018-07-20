@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="export_entries">
+        <item>@string/external_storage</item>
+        <item>@string/external_storage_app_private</item>
+        <item>@string/external_storage_app_private_documents</item>
+    </string-array>
+
+    <string-array name="export_values">
+        <item>@string/export_value_external_storage</item>
+        <item>@string/export_value_external_storage_private</item>
+        <item>@string/export_value_external_storage_private_documents</item>
+    </string-array>
+
+</resources>

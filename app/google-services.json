@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "458054562881",
+    "firebase_url": "https://academyshop-6992c.firebaseio.com",
+    "project_id": "academyshop-6992c",
+    "storage_bucket": "academyshop-6992c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458054562881:android:bba1b9e10682358d",
+        "android_client_info": {
+          "package_name": "garmin.com.academyshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458054562881-elfcb396hvg5btdfnv33ftqfakesui40.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "garmin.com.academyshop",
+            "certificate_hash": "1aa09b730376056f918cc366b55c412f0285a68e"
+          }
+        },
+        {
+          "client_id": "458054562881-kqulpopfoiudlojnkakv16dhi4nvtu9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5bMb1cgwMYqWF05iZ1bPuYxRMiHxM0wo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458054562881-kqulpopfoiudlojnkakv16dhi4nvtu9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

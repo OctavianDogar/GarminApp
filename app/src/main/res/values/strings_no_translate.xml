@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Keys used for SharedPreferences -->
+    <string name="key_wifi_only">key_wifi_only</string>
+    <string name="key_storage_export">key_storage_export</string>
+    <string name="key_login_email">key_login_email</string>
+    <string name="key_login_password">key_login_password</string>
+
+    <!-- Export array values -->
+    <string name="export_value_external_storage">0</string>
+    <string name="export_value_external_storage_private">1</string>
+    <string name="export_value_external_storage_private_documents">2</string>
+</resources>

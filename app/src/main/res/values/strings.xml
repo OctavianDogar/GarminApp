@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">AcademyShop</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="prompt_product_name">Name</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_export_products">Export Products</string>
+    <string name="action_shopping_cart">Shopping Cart</string>
+    <string name="action_add_to_cart">Add item to cart</string>
+
+    <string name="label_add_product">Product name:</string>
+
+    <!-- Settings -->
+    <string name="internet">Internet</string>
+    <string name="wifi_only">Use WiFi only</string>
+    <string name="data">Data</string>
+    <string name="export_product_list">Export Product List</string>
+    <string name="external_storage">External Storage</string>
+    <string name="external_storage_app_private">External Storage App Private</string>
+    <string name="external_storage_app_private_documents">External Storage App Private Documents</string>
+    <string name="logout">Log Out</string>
+    <string name="title_activity_shopping_cart">ShoppingCart</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="title_activity_shit">ShitActivity</string>
+    <string name="title_activity_delete">DeleteActivity</string>
+</resources>
